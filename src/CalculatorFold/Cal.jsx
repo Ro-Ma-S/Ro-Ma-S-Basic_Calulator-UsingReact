@@ -36,6 +36,7 @@ const Cal = () => {
             </div>
             <h2>Result: {number_res}</h2>
             <button class="result" onClick={Reset}> Reset </button>
+            <h3>Happy it Helped You</h3>
         </div>
     );
 }
